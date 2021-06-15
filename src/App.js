@@ -1,6 +1,6 @@
 import React from "react";
 
-import AboutUs from "./pages/about-us/about-us.component.jsx";
+import AboutUs from "./pages/AboutUs/AboutUs.jsx";
 function App() {
   return (
     <div className="App">
